@@ -1,5 +1,5 @@
 ---
-name: deslop
+name: deslopit
 description: Clean AI slop from HUMAN WRITING (posts, emails, copy, replies). Use when text reads machine-generated and you want it to sound like a person wrote it.
 ---
 
