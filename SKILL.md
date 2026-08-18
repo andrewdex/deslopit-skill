@@ -1,6 +1,6 @@
 ---
 name: deslop
-description: De-slop AI-generated writing into natural human voice by removing filler, buzzwords, and LLM tells before it ships.
+description: Clean AI slop from HUMAN WRITING (posts, emails, copy, replies). Use when text reads machine-generated and you want it to sound like a person wrote it.
 ---
 
 # DeSlop — write like a human, not an LLM
