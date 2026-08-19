@@ -60,4 +60,3 @@ Notice what changed: the facts and meaning survived; the filler, buzzwords, perf
 - No filler or buzzword survived.
 - No fact or meaning was changed.
 - It reads like a person wrote it, not a poster.
-
